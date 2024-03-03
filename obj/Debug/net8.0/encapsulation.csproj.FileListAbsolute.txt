@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\bin\Debug\net8.0\encapsulation.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\bin\Debug\net8.0\encapsulation.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\bin\Debug\net8.0\encapsulation.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\bin\Debug\net8.0\encapsulation.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\bin\Debug\net8.0\encapsulation.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\refint\encapsulation.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\encapsulation.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\encapsulation\obj\Debug\net8.0\ref\encapsulation.dll
